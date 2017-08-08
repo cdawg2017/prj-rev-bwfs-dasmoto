@@ -1,0 +1,33 @@
+html {
+  font-family: Helvetica;
+}
+
+h1 {
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+  background-image: url(file:///Users/coreyturner/Library/Mobile%20Documents/com~apple~CloudDocs/projects/DasmotosArtsCrafts/resources/images/pattern.jpeg);
+}
+
+#brush {
+  background-color: MediumSpringGreen;
+}
+
+#frame {
+  background-color: LightCoral;
+}
+
+#paint {
+  background-color: SkyBlue;
+}
+
+.product h2 {
+  color: white;
+  font-size: 32px
+}
+
+.price {
+  color: Blue;
+  font-weight: bold;
+}
